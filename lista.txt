@@ -1,0 +1,9 @@
+.makefile.swp
+build
+build.xml
+dist
+lista.txt
+manifest.mf
+nbproject
+src
+test
