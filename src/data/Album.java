@@ -5,13 +5,14 @@
  */
 package data;
 
-import java.io.Serializable;
+import java.io.Serializable; 
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
+
 
 /**
  *
